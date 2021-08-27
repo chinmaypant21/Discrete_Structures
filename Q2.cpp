@@ -16,15 +16,15 @@ class Set
         }
     }
 
-    //  bool checkDuplicate(int element,int currentIndex)
-    // {
-    //     for(int i=0;i<currentIndex;i++)
-    //     {
-    //         if (element == set[i])
-    //             return true;
-    //     }
-    //     return false;
-    // }
+ /* bool checkDuplicate(int element,int currentIndex)
+    {
+        for(int i=0;i<currentIndex;i++)
+        {
+            if (element == set[i])
+                return true;
+        }
+        return false;
+    }*/
 
     void display()
     {
