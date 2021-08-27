@@ -79,6 +79,7 @@ int main()
     Set s;
     s.addElements();
     cout<<"\n\nIt is"<<(s.isMember(3) ? " member ":" not a member ")<<"of the set.\n\n";
+    //Enter the number to check in place of 3
     cout<<"\nPowerset of Given set:\n";
     s.powerSet();
     return 0;
