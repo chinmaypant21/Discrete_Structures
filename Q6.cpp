@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+/*Tower of Hanoi using Recursion*/
 void TOH(int tower_size,int start, int destination)
 {
     if (tower_size == 1)
