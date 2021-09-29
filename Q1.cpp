@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+/*Created a Set class and added following methods:
+addElements() - to add elrments in Set (also checked for preventing duplicate elements.
+isMember(int) - to check if given number is present in set.*/
 
 class Set
 {
